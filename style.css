@@ -38,7 +38,7 @@ button:hover {
     background-color: steelblue;
 }
 
-.first-step, .second-step {
+.final-step, .second-step {
     display: none;
 }
 
@@ -51,4 +51,8 @@ input {
 
 .format, .calc, .final-step-p {
     padding: 20px;
+}
+
+#resultado{
+    font-size: 20px;
 }
